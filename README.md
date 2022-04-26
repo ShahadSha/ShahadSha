@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ShahadSha/ShahadSha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,7 @@ Web developer
                                 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
                     </p>
                     
-                  ### Socials
+                  
                   
                   
                 <p align="left">
