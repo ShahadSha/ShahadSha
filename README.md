@@ -6,7 +6,7 @@ Web developer
 
 * 🌍 I'm based in Kerala, India
 
-
+<p>
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
     width="36" height="36" alt="Python" /></a>
@@ -25,7 +25,7 @@ Web developer
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
     width="36" height="36" alt="Django" /></a>
-
+</p>
 
 
 <a href="https://discord.com/users/#" target="_blank" rel="noreferrer"><img
