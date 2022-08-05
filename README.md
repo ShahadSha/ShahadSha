@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohammed Shahad c
+Hi 👋 My name is Shahad
 ==================================
 
 Web developer
