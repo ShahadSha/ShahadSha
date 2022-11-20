@@ -1,69 +1,15 @@
-Hi 👋 My name is Shahad
-==================================
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shahadsha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shahadsha&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahadsha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Web developer
--------------
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-* 🌍 I'm based in Kerala, India
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-    width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-    width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-    width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-    width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-    width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
-    width="36" height="36" alt="Django" /></a>
-    
-<a href="https://discord.com/users/#" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-    width="32" height="32" /></a>
-<a href="https://www.facebook.com/#" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-    width="32" height="32" /></a>
-<a href="https://www.github.com/Shahadsha" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-    width="32" height="32" /></a>
-<a href="http://www.instagram.com/#" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-    width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/#" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-    width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/#" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
-    width="32" height="32" /></a>
-<a href="https://www.twitter.com/#" target="_blank" rel="noreferrer"><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-    width="32" height="32" /></a></p>Badges
-    
-   <b>My GitHub Stats</b>
-   
-   <a href="http://www.github.com/Shahadsha"><img
-    src="https://github-readme-stats.vercel.app/api?username=Shahadsha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-    alt="Shahadsha's GitHub stats" /></a>
-    
-   <a href="http://www.github.com/Shahadsha"><img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadsha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- 
-
-   <a href="https://github.com/Shahadsha" align="left"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahadsha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages" /></a>
-    
-Support Me
-----------
-  
-  <a href="https://www.buymeacoffee.com/#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=shahadsha&icon=0&color=0)](https://visitcount.itsvg.in)
